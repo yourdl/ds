@@ -1,3 +1,5 @@
+
+//AddClient.java
 import java.rmi.*;
 public class AddClient {
 public static void main(String args[]) {
